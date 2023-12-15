@@ -15,9 +15,9 @@ Create a Greeting Card on an HTML page.  Your Greeting Card should include at le
 
 ## Your Tasks
 
-- [ ] Locate the index.html page.  Here you will create the basic elements for your page.  You must include at least 10 different elements. 
-- [ ] Locate the App.js file.  Write code to manipulate the elements on your index.html page
-- [ ] Include music with your GreetingCard.  Below is an example of how to do this, 
+- [ ] Locate the index.html page.  Here you will create the basic elements for your page.  You must include at least 10 different elements.    done
+- [ ] Locate the App.js file.  Write code to manipulate the elements on your index.html page												   done
+- [ ] Include music with your GreetingCard.  Below is an example of how to do this, 														   done
 
 ```
 var au = new Audio("Music/AllIWantForChristmas.mp3");
